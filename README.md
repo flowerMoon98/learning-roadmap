@@ -78,33 +78,33 @@ Inference Optimization: Read the FlashAttention paper. Understand why it works, 
 
 
 ## Where To Learn Them
-Below is what to read/watch for the this learning plan.
-Math/CS Pre-Reqs
-3Blue1Brown: Essence of Linear Algebra (YouTube)
-MIT 18.06: Linear Algebra (Strang, OCW)
-Deep Learning Book (Goodfellow)
-PyTorch Fundamentals
-Karpathy: Neural Networks Zero to Hero
-PyTorch Learn the Basics
-Zero to Mastery PyTorch
-Transformers & LLMs
-Attention Is All You Need (Vaswani et al)
-3Blue1Brown: What is a GPT? (YouTube)
-Jay Alammar: The Illustrated Transformer
-Karpathy: Let's Build GPT
-Stanford CS224N (YouTube Lectures)
-Scaling & Distributed Training
-Kaplan et al: Scaling Laws
-Chinchilla Paper (Hoffmann et al)
-HuggingFace Accelerate
-Alignment & PEFT
-OpenAI: Aligning LMs to Follow Instructions
-Anthropic: Constitutional AI
-LoRA: Low-Rank Adaptation
-QLoRA
-LightningAI: LoRA from Scratch
-Inference
-FlashAttention Paper
+- Below is what to read/watch for the this learning plan.
+- Math/CS Pre-Reqs
+- 3Blue1Brown: Essence of Linear Algebra (YouTube)
+- MIT 18.06: Linear Algebra (Strang, OCW)
+- Deep Learning Book (Goodfellow)
+- PyTorch Fundamentals
+- Karpathy: Neural Networks Zero to Hero
+- PyTorch Learn the Basics
+- Zero to Mastery PyTorch
+- Transformers & LLMs
+- Attention Is All You Need (Vaswani et al)
+- 3Blue1Brown: What is a GPT? (YouTube)
+- Jay Alammar: The Illustrated Transformer
+- Karpathy: Let's Build GPT
+- Stanford CS224N (YouTube Lectures)
+- Scaling & Distributed Training
+- Kaplan et al: Scaling Laws
+- Chinchilla Paper (Hoffmann et al)
+- HuggingFace Accelerate
+- Alignment & PEFT
+- OpenAI: Aligning LMs to Follow Instructions
+- Anthropic: Constitutional AI
+- LoRA: Low-Rank Adaptation
+- QLoRA
+- LightningAI: LoRA from Scratch
+- Inference
+- FlashAttention Paper
 
 
 
